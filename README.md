@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Primary: Perl (CLI scripts, Plack, Job Queues, Unit Tests)
+- Learning: Golang
+
 <!--
 **agrinevich/agrinevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
